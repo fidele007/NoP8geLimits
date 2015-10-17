@@ -1,9 +1,9 @@
-Package: com.fidele007beta.nop8gelimits
+Package: com.fidele007.nop8gelimits
 Name: NoP8geLimits
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: No SpringBoard page limits. Should work on every current iOS version.
-Maintainer: fidele007
-Author: fidele007
+Description: An awesome MobileSubstrate tweak!
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Author: fidele007 <kforcefidele@yahoo.com>
 Section: Tweaks
